@@ -19,7 +19,7 @@
 3. Europe
 
 
-##  Clip 1: How will you turn the table to the left into the table to the right?
+## Clip 1: How will you turn the table to the left into the table to the right?
 
 1. (X) Extract rows where country equals Australia. 
 2. Extract all rows where continent does not equal Europe or equals Oceania.  
@@ -32,7 +32,7 @@
 3. (X) Clip 10
 
 
-##  Clip 2: How will you turn the left table to the right table? 
+## Clip 2: How will you turn the left table to the right table? 
 
 1.  (X) Extract only rows where year is smaller than 2000.
 2.  Group the table according to continent and extract rows with the two lowest values of year. 
